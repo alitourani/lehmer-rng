@@ -1,0 +1,1 @@
+# lehmer-universal-exponent-function
